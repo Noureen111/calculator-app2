@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(27, 26, 26);
+}
+
+form{
+    width:440px;
+    padding:25px;
+    background-color: rgb(27, 26, 26);
+    margin:auto;
+    border:5px solid #aaa;
+    border-radius:15px 15px;
+    }
+ 
+    input{
+    background-color: black;
+    border-radius: 10px;
+    /* background:#888; */
+    /* color:#fff; */
+    color:white;
+    font-size:15px;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:19px;
+    padding-right:19px;
+    margin:6px;
+    }
+ 
+    h2{
+    color:white;
+    text-align:center;
+    }
+ 
+    .sc{
+    background:#fff !important;
+    color:#000;
+    }
+
+    input:hover{
+        /* background-color: red; */
+        /* opacity: 0.5; */
+    }
+
+   
